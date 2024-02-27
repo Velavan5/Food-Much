@@ -8,9 +8,7 @@
 
 body{
     background-image: linear-gradient(to top,#33ff33, #3399ff);
-    background-size: cover;
-   
-}
+    background-size: cover;}
 
 .img-cont {
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
