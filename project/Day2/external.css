@@ -6,11 +6,10 @@
     text-align: center;
 }
 
-.cont-1 {
+body{
     background-image: linear-gradient(to top,#33ff33, #3399ff);
     background-size: cover;
-    height: 500vh;
-    padding: 10px;
+   
 }
 
 .img-cont {
