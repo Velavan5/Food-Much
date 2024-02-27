@@ -1,0 +1,109 @@
+.heading {
+    font-family: "playfair display";
+    font-weight: 600;
+    font-size: 30px;
+    color: #323f4b;
+    text-align: center;
+}
+
+.cont-1 {
+    background-image: linear-gradient(to top,#33ff33, #3399ff);
+    background-size: cover;
+    height: 500vh;
+    padding: 10px;
+}
+
+.img-cont {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.heading2 {
+    font-family: "Lobster";
+    font-weight: 500;
+    font-size: 35px;
+    color: #ffffff;
+}
+
+.button {
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #3366ff;
+    border-radius: 20px;
+    height: 29px;
+    width: 135px;
+    border-width: 0px;
+}
+
+.head-cont {
+    font-family: "Lobster";
+    font-weight: 500;
+    font-size: 25px;
+    color: blue;
+}
+
+.list {
+    font-family: "Lobster";
+    font-weight: 500;
+    font-size: 25px;
+    color: rgb(255, 72, 0);
+}
+
+ul {
+    font-family: "bree serif";
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(100, 0, 255);
+}
+
+.sig {
+    font-family: "bree serif";
+    font-weight: 500;
+    font-size: 20px;
+    color: #ff4d4d;
+}
+
+.thead {
+    background-color: #999966;
+}
+
+tr {
+    background-color: #ac7339;
+}
+
+.f-head {
+    font-family: "playfair display";
+    font-weight: 600;
+    font-size: 30px;
+    color: #323f4b;
+}
+
+.f-topic {
+    font-family: "playfair display";
+    font-weight: 600;
+    font-size: 18px;
+    color: #183b56;
+}
+
+.button1 {
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #3366ff;
+    border-radius: 20px;
+    height: 29px;
+    width: 155px;
+    border-width: 0px;
+}
+
+.buttons {
+    text-align: center;
+}
